@@ -1,0 +1,21 @@
+{
+  "name": "taimoor-portfolio",
+  "version": "1.0.0",
+  "description": "A professional portfolio website for Taimoor Khan, showcasing web development and AI expertise.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here'"
+  },
+  "keywords": [
+    "portfolio",
+    "web development",
+    "AI",
+    "Taimoor Khan"
+  ],
+  "author": "Taimoor Khan",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

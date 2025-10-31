@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Personal Portfolio Website",
+        "description": "A responsive portfolio website showcasing my skills and projects as a web developer and AI expert.",
+        "image": "images/portfolio.png",
+        "liveDemo": "https://taimoor-portfolio.com",
+        "repository": "https://github.com/taimoor-khan/portfolio"
+    },
+    {
+        "title": "AI Chatbot",
+        "description": "An intelligent chatbot built using natural language processing techniques to assist users in various tasks.",
+        "image": "images/chatbot.png",
+        "liveDemo": "https://taimoor-portfolio.com/chatbot",
+        "repository": "https://github.com/taimoor-khan/chatbot"
+    },
+    {
+        "title": "E-commerce Website",
+        "description": "A fully functional e-commerce platform with user authentication, product management, and payment integration.",
+        "image": "images/ecommerce.png",
+        "liveDemo": "https://taimoor-portfolio.com/ecommerce",
+        "repository": "https://github.com/taimoor-khan/ecommerce"
+    },
+    {
+        "title": "Machine Learning Model",
+        "description": "A machine learning model for predicting housing prices based on various features.",
+        "image": "images/ml-model.png",
+        "liveDemo": "https://taimoor-portfolio.com/ml-model",
+        "repository": "https://github.com/taimoor-khan/ml-model"
+    }
+]
